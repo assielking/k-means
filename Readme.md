@@ -1,4 +1,6 @@
-## Ce projet Python consiste à effectuer le clustering de données à partir du fichier "decathlon.csv" en utilisant deux méthodes : K-Means et l'arbre hiérarchique.
+## K-Means
+
+Ce projet Python consiste à effectuer le clustering de données à partir du fichier "decathlon.csv" en utilisant deux méthodes : K-Means et l'arbre hiérarchique.
 
 
 ## Fichiers
