@@ -13,7 +13,7 @@ tp.ipynb: Le script principal qui effectue le clustering.
 ## Dépendances
 
 Ce projet nécessite les bibliothèques Python suivantes :
-
+```
 numpy
 
 pandas
@@ -21,6 +21,8 @@ pandas
 sklearn
 
 scipy
+
+```
 
 ## Résultats
 
